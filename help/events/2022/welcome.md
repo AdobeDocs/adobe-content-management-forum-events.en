@@ -2,8 +2,8 @@
 title: Welcome address and AEM overview
 description: watch the welcome address and get an AEM Overview, covers unlocking the power of content velocity, 
 solution: Experience Manager,Experience Manager Cloud Service
-role: select one or more: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
-level: select one or more: Beginner, Intermediate, Experienced
+role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
+level: Beginner, Intermediate, Experienced
 kt: 10784
 thumbnail: 345183.png
 ---

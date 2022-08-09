@@ -18,53 +18,71 @@ Join the sessions below to learn:
 >[!TIP]
 >
 >**All recorded sessions are listed in the navigation on the left**.
-
+<!---
 <table>
   <tr>
    <td>
-      <a href="./2021/october/headless.md">
-      <img alt="Headless Sites" src="/help/assets/sedegah.png"/ >
+      <a href="./2022/welcome.md">
+      <img alt="Welcome address and AEM overview" src="/help/assets/welcome.png" >
       </a>
       <div>
-         <a href="./2021/october/headless.md"><strong>Headless Sites</strong></a>         
-         <br/><em>with Mathias Siegl, Principal Product Manager, AEM Sites</em>
+         <a href="./2022/welcome.md"><strong>Welcome address and AEM overview</strong></a>         
+         <br/><em>with Elliot Sedegah, Haresh Kumar, and Kurt Benkert</em>
       </div>
       <p>
         <br/>
-         With GraphQL for Content Fragments available for AEM 6.5 and Adobe Experience Manager as a Cloud Service, let's explore how Adobe Experience Manager can be used as a headless CMS.
-      </p>
-     </td>   
-     <td>
-      <a href="./2021/october/aep-integration.md">
-      <img alt="Overview of Adobe Experience Platform integration" src="/help/assets/eric.png"/>
-      </a>
-      <div>
-         <a href="./2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
-         <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
-      </div>
-      <p>
-        <br/>
-         This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
+         Welcome to the Adobe Content Management Forum event series. In this video you can watch the welcome address and get an AEM Overview and hear about unlocking the power of content velocity.
       </p>
    </td>
-   </td>
-     <td>
-      <a href="./2021/october/pdf-services-api.md">
-      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="/help/assets/ben.png"/>
+   <td>
+      <a href="./2022/headless.md">
+      <img alt="Extending Adobe Experience Manager Headless with Adobe App Builder" src="/help/assets/headless.png" >
       </a>
       <div>
-         <a href="./2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
-         <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
+         <a href="./2022/headless.md"><strong>Extending Adobe Experience Manager Headless with Adobe App Builder</strong></a>         
+         <br/><em>with Sean Steimer and Kelvin Xu</em>
       </div>
       <p>
         <br/>
-         Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
+          Learn about everything from event-driven integrations, scalable server-less processing to single page applications (SPA), App Builder brings powerful integration capabilities for integrating AEM with 3rd party systems in a headless fashion.
       </p>
-   </td> 
+   </td>
+   <td>
+      <a href="./2022/welcome.md">
+      <img alt="Headless Sites" src="/help/assets/welcome.png"/ >
+      </a>
+      <div>
+         <a href="./2021/october/headless.md"><strong>Welcome address and AEM overview</strong></a>         
+         <br/><em>with Elliot Sedegah, Haresh Kumar, and Kurt Benkert</em>
+      </div>
+      <p>
+        <br/>
+         Welcome to the Adobe Content Management Forum event series. In this video you can watch the welcome address and get an AEM Overview and hear about unlocking the power of content velocity.
+      </p>
+   </td>
   </tr>
 </table>
 
 ## Featured Speakers
+
+<div class="table-container"><table style="border-width:0">
+    <tbody><tr>
+        <td style="width:150px">
+            <img src="/help/assets/sedegah.png">
+            </a>
+        </td>
+        <td style="width:100%;margin-bottom:1rem;">
+            <div style="font-size:1.25rem;font-weight:400;">Hands-on with onboarding</div>
+            <p style="margin:1rem 0">
+                Explore AEM as a Cloud Service onboarding process and how to deploy an AEM application to the AEM SDK.
+            </p>
+            <a rel="noreferrer" target="_blank" href="https://github.com/adobe/aem-cloud-engineering-video-series-exercises/tree/session3-onboarding#bootcamp---session-3-on-boarding" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
+                <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Try out onboarding</span>
+            </a>
+        </td>
+    </tr>
+</tbody></table></div>
+
 <table width="1200" cellpadding="10" border="0">
    <tbody>
       <tr>
@@ -141,3 +159,4 @@ Join the sessions below to learn:
       </tr>
    </tbody>
 </table>
+--->
