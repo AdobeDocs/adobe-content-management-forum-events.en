@@ -52,7 +52,7 @@ Join the sessions below to learn:
       <img alt="Building a Content Supply Chain that Scales" src="/help/assets/supply-chain.png"/ >
       </a>
       <div>
-         <a href="./2021/october/supply-chain.md"><strong>Building a Content Supply Chain that Scales</strong></a>         
+         <a href="./2022/supply-chain.md"><strong>Building a Content Supply Chain that Scales</strong></a>         
          <br/><em>with  Marc Angelinovich</em>
       </div>
       <p>
